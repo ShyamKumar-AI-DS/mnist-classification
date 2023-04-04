@@ -152,6 +152,7 @@ print(x_single_prediction)
 ### New Sample Data Prediction
 
 ![o](q5.png)
+
 ![o](q6.png)
 
 ## RESULT :
